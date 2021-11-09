@@ -1,3 +1,0 @@
-# Blink example
-
-TBD
